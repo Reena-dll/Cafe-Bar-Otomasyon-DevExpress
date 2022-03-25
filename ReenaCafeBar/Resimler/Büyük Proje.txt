@@ -1,0 +1,9 @@
+Eve Sipariş Sistemi - Sipariş
+Yetkili gmail değiştir- Gmail hesabı için bir adet database oluştur- bir çok mailden mail atalım. Bunu da ayarlar menüsüne entegre et. - Mail
+Sipariş İptal - Sipariş
+Hareketler tablosunda saat de olsun. - Hareketler
+Aşçı ekranı - Menü kısmına yap
+
+
+
+ 

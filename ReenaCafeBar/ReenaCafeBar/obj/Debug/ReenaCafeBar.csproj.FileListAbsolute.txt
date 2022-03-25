@@ -1,0 +1,558 @@
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ReenaCafeBar.exe.config
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ReenaCafeBar.exe
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ReenaCafeBar.pdb
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.Giris.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.Properties.Resources.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.csproj.GenerateResource.cache
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.csproj.CoreCompileInputs.cache
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.csproj.CopyComplete
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.exe
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.pdb
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmMenu.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmPanel.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.exe.licenses
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmUrunler.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmKategoriler.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmKaldirilanUrun.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmStoklar.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmStokDetay.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmMusteriler.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmMusteriSilinen.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmPersoneller.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmPersonelCikan.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmGorevler.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmFirmalar.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmBankalar.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmNotlar.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmNotDetay.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmRehber.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmMail.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmGiderler.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\EnvDTE.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\stdole.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraReports.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraReports.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmRaporlar.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\RdlCompile.cache
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\RdlCompile.compiled
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmAyarlar.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmHareketler.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmKasa.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmAnaSayfa.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmRestoran.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.KafeSiparisMasa.resources
+C:\Users\Reena\source\repos\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmMutfak.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ReenaCafeBar.exe.config
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ReenaCafeBar.exe
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Data.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Images.v20.1.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\EnvDTE.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\stdole.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\Microsoft.MSXML.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Data.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmAnaSayfa.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmAyarlar.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmBankalar.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmFirmalar.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmGiderler.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmGorevler.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmHareketler.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmKaldirilanUrun.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmKasa.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmKategoriler.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmMail.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmMenu.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmMusteriler.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmMusteriSilinen.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmMutfak.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmNotDetay.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmNotlar.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmPanel.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmPersonelCikan.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmPersoneller.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmRaporlar.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmRehber.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmRestoran.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmStokDetay.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmStoklar.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.FrmUrunler.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.Giris.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.KafeSiparisMasa.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.exe.licenses
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\RdlCompile.cache
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\RdlCompile.compiled
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.csproj.CopyComplete
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.exe
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\obj\Debug\ReenaCafeBar.pdb
+D:\DERS\Görsel Programlama\C#\ReenaCafeBar\ReenaCafeBar\bin\Debug\ReenaCafeBar.pdb

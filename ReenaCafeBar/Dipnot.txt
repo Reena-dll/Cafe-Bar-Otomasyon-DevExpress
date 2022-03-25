@@ -1,0 +1,5 @@
+Açıklama dosyası mevcuttur.
+2 adet sql backup dosyası attım. İkisi de farklı yedeklenmiş dosyalardır.
+Birisi bak uzantılı diğeri bacpac uzantılı. Hangisi rahatınıza geliyor ise onu Kullanabilirsiniz
+
+Oğuzhan Sadıkoğlu
