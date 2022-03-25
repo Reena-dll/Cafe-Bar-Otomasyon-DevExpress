@@ -4,13 +4,18 @@
  Birisi bak uzantılı diğeri bacpac uzantılı. Hangisini tercih ederseniz onu kullanabilirsiniz. 
  Uygulamanın fotoğraflarına ve açıklamarına "Oğuzhan Sadıkoğlu- 20181011131" word belgesinden ulaşabilirsiniz.
  Uygulamanın tam hali için
+  
+Oğuzhan Sadıkoğlu
  
  ### Connect with me:
 
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/ouz.spy)
- 
-Oğuzhan Sadıkoğlu
 
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oguzhansadikoglu/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/oguzhansadikoglu/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/ouz.spy#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/ouz.spy#gh-dark-mode-only)
 
 
 # Hakkında
