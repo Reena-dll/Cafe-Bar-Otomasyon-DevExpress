@@ -4,10 +4,8 @@
  Birisi bak uzantılı diğeri bacpac uzantılı. Hangisini tercih ederseniz onu kullanabilirsiniz. 
  Uygulamanın fotoğraflarına ve açıklamarına "Oğuzhan Sadıkoğlu- 20181011131" word belgesinden ulaşabilirsiniz.
  Uygulamanın tam hali için
-  
-Oğuzhan Sadıkoğlu
- 
- ### Connect with me:
+
+ ### Benimle İletişime Geçmek İçin;
 
 
 &nbsp;&nbsp;
