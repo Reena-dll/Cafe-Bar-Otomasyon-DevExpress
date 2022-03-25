@@ -1,9 +1,13 @@
 # Cafe Bar Otomasyon DevExpress
 
-
  2 adet sql backup dosyası bulunmaktadır. İkisi de farklı uzantılı dosyalardır.
  Birisi bak uzantılı diğeri bacpac uzantılı. Hangisini tercih ederseniz onu kullanabilirsiniz. 
- Uygulamanın fotoğraflarına "Oğuzhan Sadıkoğlu- 20181011131" word belgesinden ulaşabilirsiniz.
+ Uygulamanın fotoğraflarına ve açıklamarına "Oğuzhan Sadıkoğlu- 20181011131" word belgesinden ulaşabilirsiniz.
+ Uygulamanın tam hali için
+ 
+ ### Connect with me:
+
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/ouz.spy)
  
 Oğuzhan Sadıkoğlu
 
