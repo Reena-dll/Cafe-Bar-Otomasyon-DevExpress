@@ -3,9 +3,9 @@
  2 adet sql backup dosyası bulunmaktadır. İkisi de farklı uzantılı dosyalardır.
  Birisi bak uzantılı diğeri bacpac uzantılı. Hangisini tercih ederseniz onu kullanabilirsiniz. 
  Uygulamanın fotoğraflarına ve açıklamarına "Oğuzhan Sadıkoğlu- 20181011131" word belgesinden ulaşabilirsiniz.
- Uygulamanın tam hali için
+ Uygulamanın tam hali için;
 
- ### Benimle İletişime Geçmek İçin;
+ ### Benimle İletişime Geç
 
 
 &nbsp;&nbsp;
